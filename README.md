@@ -27,7 +27,7 @@ If you're a developer interested in contributing to our website or joining our t
 
 ### Our Partner
 
-We collaborate closely with **[Stuurmen Branding Agency](https://stuur.men/)**, who have been instrumental in bringing our vision to life through world-class branding and web development. Together, we create seamless and visually stunning digital experiences for our clients.
+Our website was designed by **[Stuurmen Branding Agency](https://stuur.men/)**. Stuurmen has a history of building compelling brands for high-quality products and services.
 
 ### Our Services
 
@@ -39,7 +39,7 @@ We collaborate closely with **[Stuurmen Branding Agency](https://stuur.men/)**, 
 
 Interested in learning more? Reach out to us through our website or get in touch directly for any inquiries.
 
-Visit our website: [Magna Graecia LLC](https://staging.magna-graecia.stuurmen.nl/)
+Visit our website: [Magna Graecia LLC](https://magnagraecia.com/)
 
 ---
 © 2024 Magna Graecia LLC | Real Estate Development | Greece
